@@ -1,9 +1,11 @@
 # 1. Representation Learning
-Now there can be different types of graph and for these different types of graphs there are different representation learning techniques !!
+Our aim here is to convert the given graph into it's equivalent numerical vector representation!! Now there can be different types of graph and for these different types of graphs there are different representation learning techniques !!
 
 - Numerical Graphs : Graphs made using numerical values
+    a. [Representation learning on Numerical Graphs with only node features and no edge features]() 
+    b. [Representation learning on Numerical Graphs with both node features and edge features]() 
 
-- Textual Graphs : Graphs made using text data
+- [Textual Graphs]() : Graphs made using text data
 
 - Multimodal Graphs : Graphs made using different types of data e.g. text data / image data / numerical data
 
