@@ -1,7 +1,7 @@
 # 1. Representation Learning
 Our aim here is to convert the given graph into it's equivalent numerical vector representation!! Now there can be different types of graph and for these different types of graphs there are different representation learning techniques !!
 
-- <u>Numerical Graphs</u> : Graphs made using numerical values. Below we will see techniques used for *Undirected graphs* but all these techniques are also applicable for directed graphs
+- <ins> Numerical Graphs </ins> : Graphs made using numerical values. Below we will see techniques used for *Undirected graphs* but all these techniques are also applicable for directed graphs
   
     a. [Representation learning on Numerical Graphs with only node features and no edge features]()
   
@@ -9,7 +9,7 @@ Our aim here is to convert the given graph into it's equivalent numerical vector
 
 - [Textual Graphs]() : Graphs made using text data
 
-- Multimodal Graphs : Graphs made using different types of data e.g. text data / image data / numerical data
+- <ins> Multimodal Graphs </ins> : Graphs made using different types of data e.g. text data / image data / numerical data
 
 # 2.1. Non Generative / Supervised Downstream Tasks
 
