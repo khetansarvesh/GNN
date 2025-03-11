@@ -1,14 +1,21 @@
-# Graph Modelling
+# 1. Representation Learning
 
+# 2.1. Non Generative / Supervised Downstream Tasks
 
+# 2.2. Unsupervised Downstream Task - Clustering
+1. Spatial Clustering
 
+# 2.3. Generative Downstream Task
+1. Graph Variational Encoder (GVAE)
+  a. [Video1](https://www.youtube.com/watch?v=ZyiW_ibeDGc)
+  b. [Video2](https://www.youtube.com/watch?v=xoSU9aDSy4U)
+  c. [Video3](https://www.youtube.com/watch?v=F45X7e6QS4E)
+  d. [Code](https://github.com/deepfindr/gvae)
 
-
-# Sources Used
+# 3. Sources Used
 1. [Standford 2021 CS224W](https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn)
 2. [Standford 2023](https://www.youtube.com/playlist?list=PLhlnCXGrJEEF50wrqIf42N4QIFuTe7g1V)
 
-
-# Some other good resources
+# 4. Some other good resources
 1. [GML 2023](https://github.com/xbresson/GML2023/tree/main)
 2. [Pytorch Examples on GNN](https://github.com/pyg-team/pytorch_geometric/tree/master/examples)
