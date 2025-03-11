@@ -1,4 +1,8 @@
 # 1. Representation Learning
+Now there can be different types of graph and for these different types of graphs there are different representation learning techniques !!
+a. Numerical Graphs : Graphs made using numerical values
+b. Textual Graphs : Graphs made using text data
+c. Multimodal Graphs : Graphs made using different types of data e.g. text data / image data / numerical data
 
 # 2.1. Non Generative / Supervised Downstream Tasks
 
