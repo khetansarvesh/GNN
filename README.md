@@ -33,7 +33,8 @@ Our aim here is to convert the given graph into it's equivalent numerical vector
   b. [Video2](https://www.youtube.com/watch?v=xoSU9aDSy4U)
   c. [Video3](https://www.youtube.com/watch?v=F45X7e6QS4E)
   d. [Code](https://github.com/deepfindr/gvae)
-
+2. Graph Diffusion Models
+   
 # 3. Some other good resources
 1. [GML 2023](https://github.com/xbresson/GML2023/tree/main)
 2. [Pytorch Examples on GNN](https://github.com/pyg-team/pytorch_geometric/tree/master/examples)
