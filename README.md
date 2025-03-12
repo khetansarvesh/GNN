@@ -4,13 +4,13 @@ Our aim here is to convert the given graph into it's equivalent numerical vector
 - <ins> Numerical Graphs </ins> :
   Graphs made using numerical values. Below we will see techniques used for *Undirected Numerical Graphs* but all these techniques are also applicable for *Directed Numerical Graphs*
   
-  > [!important]a. Representation learning on Numerical Graphs with only node features and no edge features
+  > a. Representation learning on Numerical Graphs with only node features and no edge features
 
     a.1. [Non Learning Based Methods](https://khetansarvesh.medium.com/introduction-to-graph-neural-networks-gnn-a145a81a81dc)
   
     a.2. [Learning Based Methods]()
   
-    b. Representation learning on Numerical Graphs with both node features and edge features
+  > b. Representation learning on Numerical Graphs with both node features and edge features
     
     b.1. Non Learning Based Methods
   
