@@ -7,11 +7,13 @@ Our aim here is to convert the given graph into it's equivalent numerical vector
     a. Representation learning on Numerical Graphs with only node features and no edge features
 
     a.1. [Non Learning Based Methods](https://khetansarvesh.medium.com/introduction-to-graph-neural-networks-gnn-a145a81a81dc)
+  
     a.2. [Learning Based Methods]()
   
     b. Representation learning on Numerical Graphs with both node features and edge features
     
     b.1. Non Learning Based Methods
+  
     b.2. Learning Based Methods 
 
 - [Textual Graphs]() :
