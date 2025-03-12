@@ -2,7 +2,7 @@
 Our aim here is to convert the given graph into it's equivalent numerical vector representation!! Now there can be different types of graph and for these different types of graphs there are different representation learning techniques !!
 
 - <ins> Numerical Graphs </ins> :
-  Graphs made using numerical values. Below we will see techniques used for *Undirected Numerical Graphs* but all these techniques are also applicable for *Directed Numerical Graphs*
+  Graphs made using numerical values only. Below we will see techniques used for *Undirected Numerical Graphs* but all these techniques are also applicable for *Directed Numerical Graphs*
 
   a. Representation learning on Numerical Graphs with only node features and no edge features can be done in two ways i.e. [Non Learning Based Methods](https://khetansarvesh.medium.com/introduction-to-graph-neural-networks-gnn-a145a81a81dc) and other is using [Learning Based Methods]()
   
@@ -10,7 +10,7 @@ Our aim here is to convert the given graph into it's equivalent numerical vector
     
 
 - <ins> Textual Graphs </ins> :
-  Graphs made using text data
+  Graphs made using text data only.
 
 - <ins> Multimodal Graphs </ins> :
   Graphs made using different types of data e.g. text data / image data / numerical data
