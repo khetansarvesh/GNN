@@ -16,6 +16,9 @@ Our aim here is to convert the given graph into it's equivalent numerical vector
   Graphs made using different types of data e.g. text data / image data / numerical data
 
 # 2.1. Non Generative / Supervised Downstream Tasks
+- Node Level Prediction Tasks
+- Edge / Link Level Prediction Tasks
+- Knowledge Graph QA System
 
 # 2.2. Unsupervised Downstream Task - Clustering
 1. Spatial Clustering
