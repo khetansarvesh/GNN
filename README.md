@@ -19,21 +19,17 @@ Our aim here is to convert the given graph into it's equivalent numerical vector
 - <ins> Multimodal Graphs </ins> :
   Graphs made using different types of data e.g. text data / image data / numerical data
 
-# 2.1. Non Generative / Supervised Downstream Tasks
-- Node Level Prediction Tasks
-- Edge / Link Level Prediction Tasks
-- Knowledge Graph QA System
-
-# 2.2. Unsupervised Downstream Task - Clustering
-1. Spatial Clustering
-
-# 2.3. Generative Downstream Task
-1. Graph Variational Encoder (GVAE)
-  a. [Video1](https://www.youtube.com/watch?v=ZyiW_ibeDGc)
-  b. [Video2](https://www.youtube.com/watch?v=xoSU9aDSy4U)
-  c. [Video3](https://www.youtube.com/watch?v=F45X7e6QS4E)
-  d. [Code](https://github.com/deepfindr/gvae)
-2. Graph Diffusion Models
+# 2. Downstream Tasks
+- Non Generative / Supervised Downstream Tasks
+- Unsupervised Downstream Task - Clustering
+  - Spatial Clustering
+- Generative Downstream Task
+  - Graph Variational Encoder (GVAE)
+    a. [Video1](https://www.youtube.com/watch?v=ZyiW_ibeDGc)
+    b. [Video2](https://www.youtube.com/watch?v=xoSU9aDSy4U)
+    c. [Video3](https://www.youtube.com/watch?v=F45X7e6QS4E)
+    d. [Code](https://github.com/deepfindr/gvae)
+  - Graph Diffusion Models
    
 # 3. Some other good resources
 1. [GML 2023](https://github.com/xbresson/GML2023/tree/main)
