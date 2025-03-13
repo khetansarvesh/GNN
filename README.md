@@ -14,7 +14,9 @@ Our aim here is to convert the given graph into it's equivalent numerical vector
     
 
 - <ins> Textual Graphs </ins> :
-  Graphs made using text data only.
+  - These are graphs made using text data only.
+  - You can use any text embedding model to convert this graph into numerical graph
+  - And then you can use techniques discussed in Numeircal Graph to get numeric representation of this graph!
 
 - <ins> Multimodal Graphs </ins> :
   - There are graphs made using different types of data e.g. text data / image data / numerical data.
