@@ -26,7 +26,7 @@ Our aim here is to convert the given graph into it's equivalent numerical vector
   - This will convert our multimodal graph into numerical graph and then we can use techniques discussed there to get numerical representation of this entire graph. 
 
 # 2. Downstream Tasks
-- Non Generative / Supervised Downstream Tasks
+- [Non Generative / Supervised Downstream Tasks]()
 - Unsupervised Downstream Task - Clustering
   - Spatial Clustering
 - Generative Downstream Task
