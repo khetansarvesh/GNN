@@ -21,7 +21,7 @@ Our aim here is to convert the given graph into it's equivalent numerical vector
 - <ins> Multimodal Graphs </ins> :
   - There are graphs made using different types of data e.g. text data / image data / numerical data.
   - You can simply convert text to its numerical representation and image to its numerical representation using any embedding model of that modal.
-  - This will convert out graph into numerical graph and then we can use techniques discussed there to proceed further. 
+  - This will convert our multimodal graph into numerical graph and then we can use techniques discussed there to get numerical representation of this entire graph. 
 
 # 2. Downstream Tasks
 - Non Generative / Supervised Downstream Tasks
