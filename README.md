@@ -9,7 +9,7 @@ Our aim here is to convert the given graph into it's equivalent numerical vector
   - [Learning Based Methods](https://khetansarvesh.medium.com/graph-representation-learning-using-graph-convolution-attention-network-452732f69027)
   
   b. Numerical Graphs with both node features and edge features :
-  - Learning Based Methods
+  - [Learning Based Methods](https://khetansarvesh.medium.com/graph-representation-learning-using-graph-transformers-488ce1670469)
     
 
 - <ins> Textual Graphs </ins> :
