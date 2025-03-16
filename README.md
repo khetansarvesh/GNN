@@ -26,7 +26,7 @@ Our aim here is to convert the given graph into it's equivalent numerical vector
 - [Non Generative / Supervised Downstream Tasks]()
 - Unsupervised Downstream Task - Clustering
   - Spatial Clustering
-- [Generative Downstream Task]()
+- [Generative Downstream Task](https://khetansarvesh.medium.com/generating-graphs-using-deep-learning-075466e23825)
 
    
 # 3. Some other good resources
