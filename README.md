@@ -26,9 +26,8 @@ Our aim here is to convert the given graph into it's equivalent numerical vector
 - [Non Generative / Supervised Downstream Tasks]()
 - Unsupervised Downstream Task - Clustering
   - Spatial Clustering
-- Generative Downstream Task
-  - Graph Variational Auto Encoder (GVAE) : [Video1](https://www.youtube.com/watch?v=ZyiW_ibeDGc) || [Video2](https://www.youtube.com/watch?v=xoSU9aDSy4U) || [Video3](https://www.youtube.com/watch?v=F45X7e6QS4E) || [Code](https://github.com/deepfindr/gvae)
-  - Graph Diffusion Models
+- [Generative Downstream Task]()
+
    
 # 3. Some other good resources
 1. [GML 2023](https://github.com/xbresson/GML2023/tree/main)
